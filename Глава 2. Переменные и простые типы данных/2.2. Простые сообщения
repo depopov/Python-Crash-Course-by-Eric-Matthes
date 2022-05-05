@@ -1,0 +1,6 @@
+# Сохраните сообщение в переменной и выведите это сообщение.
+# Затем замените значение переменной другим сообщением и выведите новое сообщение.
+message = 'May the Force be with you.'
+print(message)
+message = 'Hello GitHub explorer!'
+print(message)
