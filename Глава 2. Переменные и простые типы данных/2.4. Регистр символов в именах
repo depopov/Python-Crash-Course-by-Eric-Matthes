@@ -1,0 +1,11 @@
+# Сохраните имя пользователя в переменной и выведите его в нижнем регистре, в верхнем регистре и с капитализацией начальных букв.
+
+name = 'Elon Musk'
+print(name.lower())
+print(name.upper(), 'it sounds like a screaming :)')
+print(name.title())
+
+# Вывод:
+# elon musk
+# ELON MUSK it sounds like a screaming :)
+# Elon Musk
