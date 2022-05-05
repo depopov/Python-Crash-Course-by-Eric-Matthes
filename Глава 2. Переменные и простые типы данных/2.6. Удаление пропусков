@@ -1,0 +1,4 @@
+# Уберите пропуски с помощью strip()
+
+name = '\t Albert Einstein\n'
+print(name.strip())
